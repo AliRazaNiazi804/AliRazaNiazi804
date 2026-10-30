@@ -1,25 +1,21 @@
-<!--
-  GitHub Profile README
-  Keep claims factual and update project links as each repository matures.
--->
-
+<!-- GitHub Profile README -->
 <div align="center">
 
 # Ali Raza Niazi
 
 ### Software Engineering Student · AI/ML & Python Developer
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+software+solutions;Exploring+Machine+Learning+%26+NLP;Learning+MLOps+and+Cloud+technologies;Turning+ideas+into+working+projects" alt="Animated typing introduction" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+software+solutions;Exploring+Machine+Learning+%26+NLP;Learning+MLOps+and+Cloud+technologies;Turning+ideas+into+working+projects" alt="Animated introduction" />
 </a>
 
 <p>
-  <a href="https://github.com/AliRazaNiazi804">
-    <img src="https://img.shields.io/badge/GitHub-AliRazaNiazi804-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Python-0EA5E9?style=for-the-badge" alt="Focus areas" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Learning%20%26%20Collaboration-16A34A?style=for-the-badge" alt="Status" />
+  <a href="https://github.com/AliRazaNiazi804"><img src="https://img.shields.io/badge/GitHub-AliRazaNiazi804-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Python-0EA5E9?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Learning%20%26%20Collaboration-16A34A?style=for-the-badge" alt="Status"/>
 </p>
+
+<a href="https://alirazaNiazi804.github.io/portfolio-websites/"><img src="https://img.shields.io/badge/Explore-My%20Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Portfolio website"/></a>
 
 </div>
 
@@ -29,12 +25,10 @@
 
 I am a **BS Software Engineering student at HITEC University, Pakistan**, interested in building useful software and exploring intelligent systems.
 
-My current learning and development interests include:
-
-- **Artificial Intelligence & Machine Learning** — practical ML workflows, model experimentation, and NLP.
-- **Python Development** — scripting, application logic, and data-oriented projects.
-- **MLOps & Cloud** — learning model lifecycle practices, deployment concepts, and cloud technologies.
-- **Software Engineering** — writing maintainable code and improving problem-solving skills.
+- **AI & Machine Learning:** practical ML workflows, model experimentation, and NLP.
+- **Python Development:** scripting, application logic, and data-oriented projects.
+- **MLOps & Cloud:** learning model lifecycle practices, deployment concepts, and cloud technologies.
+- **Software Engineering:** maintainable code, testing, and problem-solving.
 
 I value hands-on learning, clear documentation, and projects that solve real problems.
 
@@ -78,7 +72,7 @@ I value hands-on learning, clear documentation, and projects that solve real pro
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AliRazaNiazi804&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=AliRazaNiazi804&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
   <br/>
   <a href="https://github.com/AliRazaNiazi804?tab=repositories">Explore all repositories</a>
   ·
@@ -95,7 +89,7 @@ I value hands-on learning, clear documentation, and projects that solve real pro
 
 ## Connect
 
-The best way to reach me here is through [GitHub](https://github.com/AliRazaNiazi804). Feel free to explore my repositories, share feedback, or collaborate on a learning project.
+Explore my [GitHub repositories](https://github.com/AliRazaNiazi804), share feedback, or connect about a learning project.
 
 <div align="center">
 
