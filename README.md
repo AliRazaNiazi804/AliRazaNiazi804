@@ -166,12 +166,12 @@ An in-progress university project exploring parcel-to-traveler matching, ranking
 
 ## 📈 GitHub Activity
 
+I keep my latest work, experiments, and code history on GitHub. The most reliable view of my activity is available directly on GitHub, without relying on external statistics image services.
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AliRazaNiazi804&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRazaNiazi804&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=AliRazaNiazi804&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+<a href="https://github.com/AliRazaNiazi804?tab=overview"><img src="https://img.shields.io/badge/VIEW-GitHub%20Contribution%20Activity-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contribution activity"/></a>
+<a href="https://github.com/AliRazaNiazi804?tab=repositories"><img src="https://img.shields.io/badge/BROWSE-All%20Repositories-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories"/></a>
 
 </div>
 
