@@ -1,98 +1,199 @@
-<!-- GitHub Profile README -->
+<!--
+  Ali Raza Niazi | GitHub Profile
+  Keep project descriptions aligned with the actual repository contents.
+-->
+
 <div align="center">
 
-# Ali Raza Niazi
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:07111F,50:102A43,100:0E7490&text=ALI%20RAZA%20NIAZI&fontColor=F0F9FF&fontSize=42&fontAlignY=42&desc=AI%2FML%20%7C%20PYTHON%20%7C%20AI%20AUTOMATION%20%7C%20CLOUD&descAlignY=67&descSize=14" width="100%" alt="Ali Raza Niazi — AI, Machine Learning, Python, Automation and Cloud"/>
 
-### Software Engineering Student · AI/ML & Python Developer
+### AI/ML & Python Developer · Automation Enthusiast · Software Engineering Student
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+software+solutions;Exploring+Machine+Learning+%26+NLP;Learning+MLOps+and+Cloud+technologies;Turning+ideas+into+working+projects" alt="Animated introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+useful+Python+applications;Exploring+Machine+Learning+%26+NLP;Developing+AI+assistant+and+automation+ideas;Learning+Cloud+%26+MLOps+engineering" alt="Animated headline"/>
 
 <p>
-  <a href="https://github.com/AliRazaNiazi804"><img src="https://img.shields.io/badge/GitHub-AliRazaNiazi804-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Python-0EA5E9?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Learning%20%26%20Collaboration-16A34A?style=for-the-badge" alt="Status"/>
+  <a href="https://alirazaniazi804.github.io/portfolio-websites/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/AliRazaNiazi804?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 </p>
 
-<a href="https://alirazaNiazi804.github.io/portfolio-websites/"><img src="https://img.shields.io/badge/Explore-My%20Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Portfolio website"/></a>
+<img src="https://komarev.com/ghpvc/?username=AliRazaNiazi804&style=flat-square&color=0E7490&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I am a **BS Software Engineering student at HITEC University, Pakistan**, interested in building useful software and exploring intelligent systems.
+I'm **Ali Raza Niazi**, a **BS Software Engineering student at HITEC University, Pakistan**, focused on building practical software and developing my skills in **Artificial Intelligence, Machine Learning, Python development, and automation**.
 
-- **AI & Machine Learning:** practical ML workflows, model experimentation, and NLP.
-- **Python Development:** scripting, application logic, and data-oriented projects.
-- **MLOps & Cloud:** learning model lifecycle practices, deployment concepts, and cloud technologies.
-- **Software Engineering:** maintainable code, testing, and problem-solving.
+I enjoy taking a problem from an idea to a working prototype: understanding the requirements, designing the logic, implementing a solution, and improving it through testing.
 
-I value hands-on learning, clear documentation, and projects that solve real problems.
+- 🤖 **AI & Machine Learning:** supervised learning, clustering, model experimentation, and NLP.
+- 🐍 **Python Engineering:** scripting, data processing, application logic, and backend fundamentals.
+- ⚙️ **AI Agents & Automation:** exploring task-oriented assistants, multi-step workflows, and business-process automation.
+- ☁️ **Cloud & MLOps:** building knowledge of deployment, model lifecycle, and cloud infrastructure fundamentals.
+- 🧩 **Software Engineering:** clean implementation, practical problem-solving, testing, and documentation.
 
-## Tech Stack
+**My approach:** build, measure, learn, and improve. I aim to be transparent about what I have built and what I am currently learning.
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**AI / Data**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Development & Tools**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-## Featured Projects
-
-| Project | What it demonstrates |
-|---|---|
-| [FAQ Chatbot](https://github.com/AliRazaNiazi804/CodeAlpha_FAQChatbot) | Python and NLP-based FAQ matching using cosine similarity. |
-| [Object Detection & Tracking](https://github.com/AliRazaNiazi804/CodeAlpha_ObjectDetectionTracking) | Real-time object detection and tracking with YOLOv8 and OpenCV. |
-| [Language Translation Tool](https://github.com/AliRazaNiazi804/CodeAlpha_LanguageTranslationTool) | A Python translation application using Google Translate API. |
-| [Customer Segmentation](https://github.com/AliRazaNiazi804/Customer-Sgementation-Clustering-) | A clustering-focused machine learning project. |
-| [MLOps Journey](https://github.com/AliRazaNiazi804/mlops-journey) | Learning and documenting MLOps concepts and workflows. |
-
-## GitHub Activity
+## 🧰 Technical Toolkit
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AliRazaNiazi804&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
-  <br/>
-  <a href="https://github.com/AliRazaNiazi804?tab=repositories">Explore all repositories</a>
-  ·
-  <a href="https://github.com/AliRazaNiazi804?tab=overview">View GitHub activity</a>
+
+**PROGRAMMING**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,php,js,html,css" alt="Python, C++, Java, C, PHP, JavaScript, HTML and CSS"/>
+
+**AI · DATA · MACHINE LEARNING**
+<br/>
+<img src="https://skillicons.dev/icons?i=opencv,sklearn" alt="OpenCV and scikit-learn"/>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-Text%20Processing-0F766E?style=flat-square"/>
+
+**APPLICATION DEVELOPMENT · DATABASE · TOOLS**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,laravel,firebase,mysql,git,github,vscode" alt="Flutter, Laravel, Firebase, MySQL, Git, GitHub and VS Code"/>
+
+**CURRENT LEARNING AREAS**
+<br/>
+<img src="https://img.shields.io/badge/AI%20Agents-Exploring-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-Workflows-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-Fundamentals-0369A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLOps-Learning-7C3AED?style=flat-square"/>
+
 </div>
 
-## Currently Exploring
+## 🚀 Selected Projects
 
-- Machine learning model development and evaluation
-- Natural Language Processing
-- MLOps fundamentals
-- Cloud technologies and deployment
-- Better software design and project documentation
+A few repositories from my hands-on learning and development work.
 
-## Connect
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Explore my [GitHub repositories](https://github.com/AliRazaNiazi804), share feedback, or connect about a learning project.
+### 🤖 FAQ Chatbot
+**Python · NLP · Text Similarity**
+
+A question-answering prototype that matches user queries against a predefined FAQ knowledge base.
+
+[View source code ↗](https://github.com/AliRazaNiazi804/CodeAlpha_FAQChatbot)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Object Detection & Tracking
+**Python · YOLO · OpenCV**
+
+A computer-vision project exploring object detection and tracking in visual input.
+
+[View source code ↗](https://github.com/AliRazaNiazi804/CodeAlpha_ObjectDetectionTracking)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Language Translation Tool
+**Python · Translation API**
+
+A translation application built to explore API integration and language-processing workflows.
+
+[View source code ↗](https://github.com/AliRazaNiazi804/CodeAlpha_LanguageTranslationTool)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Customer Segmentation
+**Python · Machine Learning · Clustering**
+
+An unsupervised-learning project focused on exploring customer groups and patterns in data.
+
+[View source code ↗](https://github.com/AliRazaNiazi804/Customer-Sgementation-Clustering-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ MLOps Learning Journey
+**MLOps · Model Lifecycle · Engineering**
+
+A learning repository for documenting MLOps concepts, tools, and practical workflows.
+
+[View repository ↗](https://github.com/AliRazaNiazi804/mlops-journey)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Intelligent Parcel & Traveler Matching
+**Final Year Project · AI/ML · Matching Systems**
+
+An in-progress university project exploring parcel-to-traveler matching, ranking, and delivery-success prediction.
+
+<sub>Academic project in development — not presented as a production service.</sub>
+
+</td>
+</tr>
+</table>
+
+## 🧠 What I Can Help Build
+
+| Area | Practical work |
+|---|---|
+| **Python development** | Scripts, utilities, data processing, and small application features |
+| **Machine learning** | Data preparation, baseline models, clustering, and evaluation prototypes |
+| **NLP & chatbots** | FAQ matching, text processing, and basic assistant prototypes |
+| **Automation** | Workflow concepts, repetitive-task automation, and API-based integrations |
+| **AI agent prototypes** | Task-focused assistant experiments and multi-step workflow concepts |
+
+*Project scope and tools are discussed clearly before work begins. I don't claim production experience where I have only learning or prototype experience.*
+
+## 🌱 Current Learning Roadmap
 
 <div align="center">
 
-*Learning continuously. Building thoughtfully. Improving one project at a time.*
+| Track | Direction |
+|:---:|---|
+| **01** | Stronger Python, data structures, and software design |
+| **02** | Machine learning pipelines, feature engineering, and evaluation |
+| **03** | LLM applications, AI agents, and reliable tool workflows |
+| **04** | Automation, API integrations, and backend services |
+| **05** | Cloud fundamentals, deployment, and MLOps |
+
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AliRazaNiazi804&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRazaNiazi804&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=AliRazaNiazi804&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+
+</div>
+
+## 🤝 Collaboration & Freelance
+
+I'm interested in collaborating on well-defined projects involving:
+
+- Python development and scripting
+- Machine learning and data-oriented prototypes
+- NLP and FAQ chatbot applications
+- AI assistant and automation experiments
+- Beginner-friendly cloud and MLOps projects
+
+If you have a clear problem and a practical scope, feel free to explore my work and get in touch through GitHub.
+
+<div align="center">
+
+<a href="https://github.com/AliRazaNiazi804?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+<a href="https://alirazaniazi804.github.io/portfolio-websites/"><img src="https://img.shields.io/badge/Visit%20Portfolio-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"/></a>
+
+### *Building practical solutions. Learning intelligent systems. Growing every day.*
+
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
