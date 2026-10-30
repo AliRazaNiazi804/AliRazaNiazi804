@@ -78,12 +78,11 @@ I value hands-on learning, clear documentation, and projects that solve real pro
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AliRazaNiazi804&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRazaNiazi804&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=AliRazaNiazi804&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <br/>
+  <a href="https://github.com/AliRazaNiazi804?tab=repositories">Explore all repositories</a>
+  ·
+  <a href="https://github.com/AliRazaNiazi804?tab=overview">View GitHub activity</a>
 </div>
 
 ## Currently Exploring
